@@ -1,23 +1,30 @@
-# Project Description
+# Calculator App
 
-Calculator application implemented in Java using the Swing library for creating the graphical user interface (GUI). It extends the JFrame class and implements the ActionListener interface to handle button click events.
+The Calculator App is a Java application that provides a feature-rich calculator with an intuitive graphical user interface (GUI). It allows users to perform basic arithmetic operations, as well as advanced mathematical functions like square root, sine, cosine, and tangent. The app supports decimal calculations and provides real-time updates of the calculated result on the screen. Additionally, it includes a percentage function for easy percentage calculations.
 
-The calculator GUI consists of a text field for displaying the numbers and results, and various buttons for numeric input, arithmetic operations, and other functionalities like clearing, calculating percentages, square roots, trigonometric functions, etc.
+## Features
 
-The main logic of the calculator is implemented in the actionPerformed method, where the appropriate action is performed based on the button that was clicked. The calculator keeps track of the numbers entered (num1 and num2), the current operator (operator), and the result of the calculation (result).
+Basic arithmetic operations: addition, subtraction, multiplication, and division.
+Additional mathematical functions: square root, sine, cosine, and tangent.
+Percentage calculation for quick percentage calculations.
+Decimal support for accurate calculations.
+Real-time updates and display of the calculated result.
+Clear button to reset the calculator and start fresh.
+Error handling for division by zero scenarios.
+Usage
 
-The main method creates an instance of the CalculatorApp class and makes the GUI visible.
+## To run the Calculator App, follow these steps:
 
-----------------------------------------------------------------------------------------------------------------------------------------
+Open a command prompt or terminal.
+Navigate to the project directory: cd "Calculator App".
+Compile the Java file: javac CalculatorApp.java.
+Run the application: java CalculatorApp.
 
-- The code begins with importing necessary packages and classes from the Java AWT and Swing libraries.
-- The CalculatorApp class is declared, which extends the JFrame class and implements the ActionListener interface. This means the class can handle GUI events and has access to GUI components.
-- The class declares private instance variables including text fields, buttons, and variables to store numbers, operators, and results.
-- The constructor method CalculatorApp() is defined. It initializes the GUI components, sets up the layout, and configures event listeners for buttons.
-- The actionPerformed() method is implemented to handle button click events. It checks the action command of the button that triggered the event and performs the corresponding action.
-- The main logic of the calculator is implemented in the actionPerformed() method. It handles functionalities such as clearing the calculator, calculating percentages, square roots, and trigonometric functions. It also handles numeric input, decimal point input, and arithmetic operations like addition, subtraction, multiplication, and division. The result is displayed in the text field.
-- The main() method creates an instance of the CalculatorApp class, making the calculator GUI visible.
+## Requirements
 
-----------------------------------------------------------------------------------------------------------------------------------------
+Java Development Kit (JDK) installed on your machine.
+A Java IDE or a text editor to view and modify the source code.
 
-Overall, this is a calculator application with basic arithmetic operations and additional functionalities such as percentage calculation, square root, and trigonometric functions. It provides a basic framework for a calculator GUI and handles user input to perform calculations and display the results.
+Feel free to customize and enhance the Calculator App according to your needs. Contributions and feedback are welcome!
+
+## License
