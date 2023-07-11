@@ -29,3 +29,5 @@ To run the Calculator App, follow these steps:
 Feel free to customize and enhance the Calculator App according to your needs. Contributions and feedback are welcome!
 
 ## License
+
+This project is licensed under the MIT License.
