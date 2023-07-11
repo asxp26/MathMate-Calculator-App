@@ -1,4 +1,4 @@
-# MathMate Calculator App
+# MathMate Calculator Ap
 
 The MathMate Calculator App is a Java application that provides a feature-rich calculator with an intuitive graphical user interface (GUI). It allows users to perform basic arithmetic operations, as well as advanced mathematical functions like square root, sine, cosine, and tangent. The app supports decimal calculations and provides real-time updates of the calculated result on the screen. Additionally, it includes a percentage function for easy percentage calculations.
 
