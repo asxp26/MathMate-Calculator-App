@@ -4,26 +4,27 @@ The Calculator App is a Java application that provides a feature-rich calculator
 
 ## Features
 
-Basic arithmetic operations: addition, subtraction, multiplication, and division.
-Additional mathematical functions: square root, sine, cosine, and tangent.
-Percentage calculation for quick percentage calculations.
-Decimal support for accurate calculations.
-Real-time updates and display of the calculated result.
-Clear button to reset the calculator and start fresh.
-Error handling for division by zero scenarios.
-Usage
+- Basic arithmetic operations: addition, subtraction, multiplication, and division.
+- Additional mathematical functions: square root, sine, cosine, and tangent.
+- Percentage calculation for quick percentage calculations.
+- Decimal support for accurate calculations.
+- Real-time updates and display of the calculated result.
+- Clear button to reset the calculator and start fresh.
+- Error handling for division by zero scenarios.
 
-## To run the Calculator App, follow these steps:
+## Usage
 
-Open a command prompt or terminal.
-Navigate to the project directory: cd "Calculator App".
-Compile the Java file: javac CalculatorApp.java.
-Run the application: java CalculatorApp.
+To run the Calculator App, follow these steps:
+
+- Open a command prompt or terminal.
+- Navigate to the project directory: cd "Calculator App".
+- Compile the Java file: javac CalculatorApp.java.
+- Run the application: java CalculatorApp.
 
 ## Requirements
 
-Java Development Kit (JDK) installed on your machine.
-A Java IDE or a text editor to view and modify the source code.
+- Java Development Kit (JDK) installed on your machine.
+- A Java IDE or a text editor to view and modify the source code.
 
 Feel free to customize and enhance the Calculator App according to your needs. Contributions and feedback are welcome!
 
